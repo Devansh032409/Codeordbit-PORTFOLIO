@@ -51,37 +51,25 @@ A clean, modular, and maintainable folder hierarchy:
 
 ---
 
-## 🛠️ How to Run
-
-Since this project uses only HTML, CSS, and Vanilla JavaScript, no build tools or package managers (like npm) are required.
-
-### Option 1: Direct File Access
-Simply double-click the `index.html` file to open it in your default web browser.
-
-### Option 2: Live Server (Recommended for Development)
-If you are using **Visual Studio Code**:
-1. Install the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-2. Open the project folder in VS Code.
-3. Right-click `index.html` and select **"Open with Live Server"**.
-
-### Option 3: Python HTTP Server
-If you have Python installed and prefer a terminal approach, run the following command in the project root:
-```bash
-python -m http.server
-```
-Then navigate to `http://localhost:8000` in your web browser.
-
----
-
 ## 📸 Screenshots
 
-*(Replace the placeholder links below with actual image paths once deployed)*
-
 ### Hero Section
-![Hero Section Screenshot](./assets/hero-placeholder.png)
+![Hero Section Screenshot](".\assets\Screenshots\Hero section.png")
+
+### About Section
+![About Section Screenshot](".\assets\Screenshots\About.png")
+
+### Skills Section
+![Skills Section Screenshot](".\assets\Screenshots\Skills.png")
 
 ### Projects Section
-![Projects Section Screenshot](./assets/projects-placeholder.png)
+![Projects Section Screenshot](".\assets\Screenshots\Projects.png")
+
+### Education Section
+![Education Section Screenshot](".\assets\Screenshots\Education.png")
+
+### Contact Section 
+![Contact Section Screenshot](".\assets\Screenshots\contact me.png")
 
 ---
 
@@ -96,7 +84,7 @@ Then navigate to `http://localhost:8000` in your web browser.
 
 ## 🔗 GitHub Repository
 
-[Link to Repository](https://github.com/yourusername/your-repo-name)
+[Link to Repository](https://github.com/Devansh032409/CodeOrbit-PORTFOLIO)
 *(Update this link when pushing to your GitHub account)*
 
 ---
