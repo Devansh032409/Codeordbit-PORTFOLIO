@@ -54,7 +54,7 @@ A clean, modular, and maintainable folder hierarchy:
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section Screenshot](".\assets\Screenshots\Hero section.png")
+![Hero Section Screenshot](".\assets\Screenshots\Hero.png")
 
 ### About Section
 ![About Section Screenshot](".\assets\Screenshots\About.png")
@@ -69,7 +69,7 @@ A clean, modular, and maintainable folder hierarchy:
 ![Education Section Screenshot](".\assets\Screenshots\Education.png")
 
 ### Contact Section 
-![Contact Section Screenshot](".\assets\Screenshots\contact me.png")
+![Contact Section Screenshot](".\assets\Screenshots\contactme.png")
 
 ---
 
@@ -85,7 +85,6 @@ A clean, modular, and maintainable folder hierarchy:
 ## 🔗 GitHub Repository
 
 [Link to Repository](https://github.com/Devansh032409/CodeOrbit-PORTFOLIO)
-*(Update this link when pushing to your GitHub account)*
 
 ---
 
