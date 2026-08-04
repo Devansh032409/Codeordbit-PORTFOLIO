@@ -84,7 +84,7 @@ A clean, modular, and maintainable folder hierarchy:
 
 ## 🔗 GitHub Repository
 
-[Link to Repository]([https://github.com/Devansh032409/Codeordbit-PORTFOLIO])
+[https://github.com/Devansh032409/Codeordbit-PORTFOLIO](https://github.com/Devansh032409/Codeordbit-PORTFOLIO)
 
 ---
 
